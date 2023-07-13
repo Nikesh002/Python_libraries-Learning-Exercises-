@@ -1,0 +1,6 @@
+n = list(range(10))
+print(n)
+n = list(range(2, 20, 2))
+print(n)
+n = list(range(10, 0, -1))
+print(n)
